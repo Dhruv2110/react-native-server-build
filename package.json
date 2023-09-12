@@ -4,7 +4,7 @@
   "description": "Building React Native apps on server.",
   "main": "index.js",
   "scripts": {
-    "start": "node app",
+    "start": "nodemon app",
     "dev": "nodemon app"
   },
   "repository": {
