@@ -1,0 +1,25 @@
+{
+  "name": "react-native-server-build",
+  "version": "1.0.0",
+  "description": "Building React Native apps on server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dhruv2110/react-native-server-build.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dhruv2110/react-native-server-build/issues"
+  },
+  "homepage": "https://github.com/Dhruv2110/react-native-server-build#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1"
+  }
+}
